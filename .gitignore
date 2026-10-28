@@ -1,0 +1,6 @@
+﻿venv/
+sessions/
+__pycache__/
+*.wav
+*.mid
+*.pyc
